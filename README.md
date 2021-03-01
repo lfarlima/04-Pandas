@@ -1,2 +1,1 @@
-# 04-Pandas
-Whale Analysis
+# Quantitative Analysis and Visualization using Pandas
